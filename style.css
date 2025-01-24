@@ -1,77 +1,16 @@
-
-.box-image{
-    width: 100%;
-    height: 600px;
-    overflow: hidden;
-    position: relative;
-}
-
-.heading{
-    text-transform: uppercase;
-    font-weight: 900;
-    font-size: 56px;
-    letter-spacing: 5px;
-}
-
-.heading2{
-    text-transform: uppercase;
-    font-weight: 200;
-    letter-spacing: 13px;
-    word-spacing: 10px;
-    font-size: 20px;
-}
-
-.part1{
-    z-index: 2;
-    position: absolute;
-    top: 35%;
-    left: 8%;
-    width: 45%;
-}
-
-.part1 h1{
-    text-transform: capitalize;
-    font-weight: 800;
-    font-size: 40px;
-    letter-spacing: 4px;
-}
-
-.part1 p{
-    letter-spacing: 4px;
-    color: rgb(213, 212, 212);
-
-}
-
-.heading3{
-    text-transform: capitalize;
-    font-weight: 700;
-    font-size: 40px;
-    letter-spacing: 4px;
-}
-
-.heading4{
-    letter-spacing: 4px;
-    color: rgb(213, 212, 212);
-}
-
-.box-image1{
-    width: 100%;
-    height: 600px;
-    overflow: hidden;
-    position: relative;
-    
-}
-
-.part2{
-    position: absolute;
-    top: 7%;
-    left: 35%;
-}
-
-.last{
-  font-weight: 300;
-  letter-spacing: 14px;
-  word-spacing: 10px;
-  text-transform: uppercase;
-  font-size: 20px;
-}
+.bg-style1{
+    background-color: rgb(61, 4, 87);
+    }
+    .bg-style2{
+        max-width: 70% !important;
+    }
+    .bg-style3{
+        background-color: rgb(92, 6, 131)!important ;
+    }
+    .bg-style4{
+        text-transform: uppercase;
+        padding: 10px 30px;
+        background-color: #ffc107;
+        color: black;
+        text-decoration: none;
+    }
